@@ -1,0 +1,128 @@
+08-12-2021 12:12:38 - INFO  com.capg.rockstarGames.RockstarGamesApplication : No active profile set, falling back to default profiles: default
+08-12-2021 12:12:39 - INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+08-12-2021 12:12:39 - INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interfaces.
+08-12-2021 12:12:39 - INFO  org.springframework.cloud.context.scope.GenericScope : BeanFactory id=1c6d5d0d-4b23-36e7-ac71-b78e78e632b3
+08-12-2021 12:12:39 - INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9001 (http)
+08-12-2021 12:12:39 - INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+08-12-2021 12:12:39 - INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.55]
+08-12-2021 12:12:40 - INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+08-12-2021 12:12:40 - INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1341 ms
+08-12-2021 12:12:40 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Starting...
+08-12-2021 12:12:40 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Start completed.
+08-12-2021 12:12:40 - INFO  org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+08-12-2021 12:12:40 - INFO  org.hibernate.jpa.internal.util.LogHelper : HHH000204: Processing PersistenceUnitInfo [name: default]
+08-12-2021 12:12:40 - INFO  org.hibernate.Version : HHH000412: Hibernate ORM core version 5.6.1.Final
+08-12-2021 12:12:40 - INFO  org.hibernate.annotations.common.Version : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+08-12-2021 12:12:40 - INFO  org.hibernate.dialect.Dialect : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+08-12-2021 12:12:41 - INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+08-12-2021 12:12:41 - INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+08-12-2021 12:12:41 - WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+08-12-2021 12:12:42 - INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver : Exposing 16 endpoint(s) beneath base path '/actuator'
+08-12-2021 12:12:42 - INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 9001 (http) with context path ''
+08-12-2021 12:12:42 - INFO  com.capg.rockstarGames.RockstarGamesApplication : Started RockstarGamesApplication in 6.08 seconds (JVM running for 6.907)
+08-12-2021 12:12:44 - INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-12-2021 12:12:44 - INFO  org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+08-12-2021 12:12:44 - INFO  org.springframework.web.servlet.DispatcherServlet : Completed initialization in 1 ms
+08-12-2021 12:12:55 - INFO  com.capg.rockstarGames.RockstarGamesApplication : No active profile set, falling back to default profiles: default
+08-12-2021 12:12:55 - INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+08-12-2021 12:12:56 - INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interfaces.
+08-12-2021 12:12:56 - INFO  org.springframework.cloud.context.scope.GenericScope : BeanFactory id=1c6d5d0d-4b23-36e7-ac71-b78e78e632b3
+08-12-2021 12:12:56 - INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9001 (http)
+08-12-2021 12:12:56 - INFO  org.apache.catalina.core.StandardService : Starting service [Tomcat]
+08-12-2021 12:12:56 - INFO  org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.55]
+08-12-2021 12:12:56 - INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+08-12-2021 12:12:56 - INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1334 ms
+08-12-2021 12:12:56 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Starting...
+08-12-2021 12:12:56 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Start completed.
+08-12-2021 12:12:56 - INFO  org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+08-12-2021 12:12:57 - INFO  org.hibernate.jpa.internal.util.LogHelper : HHH000204: Processing PersistenceUnitInfo [name: default]
+08-12-2021 12:12:57 - INFO  org.hibernate.Version : HHH000412: Hibernate ORM core version 5.6.1.Final
+08-12-2021 12:12:57 - INFO  org.hibernate.annotations.common.Version : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+08-12-2021 12:12:57 - INFO  org.hibernate.dialect.Dialect : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+08-12-2021 12:12:57 - INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+08-12-2021 12:12:57 - INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+08-12-2021 12:12:58 - WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+08-12-2021 12:12:58 - INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver : Exposing 16 endpoint(s) beneath base path '/actuator'
+08-12-2021 12:12:58 - WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9001 is already in use
+08-12-2021 12:12:58 - INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+08-12-2021 12:12:58 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...
+08-12-2021 12:12:58 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown completed.
+08-12-2021 12:12:58 - INFO  org.apache.catalina.core.StandardService : Stopping service [Tomcat]
+08-12-2021 12:12:58 - INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+08-12-2021 12:12:58 - ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9001 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9001 or configure this application to listen on another port.
+
+08-12-2021 12:20:23 - INFO  com.capg.rockstarGames.util.Constants : Add game controller initialized
+08-12-2021 12:20:23 - INFO  com.capg.rockstarGames.util.Constants : Add Game service initialized
+08-12-2021 12:20:23 - INFO  com.capg.rockstarGames.util.Constants : Add Game service executed
+08-12-2021 12:20:23 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:20:23 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:20:23 - INFO  com.capg.rockstarGames.util.Constants : Add game controller executed
+08-12-2021 12:21:45 - INFO  com.capg.rockstarGames.util.Constants : Add game controller initialized
+08-12-2021 12:21:45 - INFO  com.capg.rockstarGames.util.Constants : Add Game service initialized
+08-12-2021 12:21:45 - INFO  com.capg.rockstarGames.util.Constants : Add Game service executed
+08-12-2021 12:21:45 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:21:45 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:21:45 - INFO  com.capg.rockstarGames.util.Constants : Add game controller executed
+08-12-2021 12:22:25 - INFO  com.capg.rockstarGames.util.Constants : Add game controller initialized
+08-12-2021 12:22:25 - INFO  com.capg.rockstarGames.util.Constants : Add Game service initialized
+08-12-2021 12:22:25 - INFO  com.capg.rockstarGames.util.Constants : Add Game service executed
+08-12-2021 12:22:25 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:22:25 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:22:25 - INFO  com.capg.rockstarGames.util.Constants : Add game controller executed
+08-12-2021 12:47:18 - INFO  org.springframework.cloud.config.client.ConfigServicePropertySourceLocator : Fetching config from server at : http://localhost:9000
+08-12-2021 12:47:18 - INFO  org.springframework.cloud.config.client.ConfigServicePropertySourceLocator : Located environment: name=rockstar, profiles=[default], label=null, version=c6c36896ff2c18051612b4da62eee2233a27590c, state=null
+08-12-2021 12:56:48 - INFO  com.capg.rockstarGames.util.Constants : Add game controller initialized
+08-12-2021 12:56:48 - INFO  com.capg.rockstarGames.util.Constants : Add Game service initialized
+08-12-2021 12:56:48 - INFO  com.capg.rockstarGames.util.Constants : Add Game service executed
+08-12-2021 12:56:48 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:56:48 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:56:48 - INFO  com.capg.rockstarGames.util.Constants : Add game controller executed
+08-12-2021 12:56:54 - WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+08-12-2021 12:56:58 - INFO  com.capg.rockstarGames.util.Constants : Get game controller initialized
+08-12-2021 12:56:58 - INFO  com.capg.rockstarGames.util.Constants : Get Game service initialized
+08-12-2021 12:56:58 - INFO  com.capg.rockstarGames.util.Constants : Get Game service executed
+08-12-2021 12:56:58 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:56:58 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:56:58 - INFO  com.capg.rockstarGames.util.Constants : Get game controller executed
+08-12-2021 12:59:19 - INFO  com.capg.rockstarGames.util.Constants : Get game controller initialized
+08-12-2021 12:59:19 - INFO  com.capg.rockstarGames.util.Constants : Get Game service initialized
+08-12-2021 12:59:19 - INFO  com.capg.rockstarGames.util.Constants : Get Game service executed
+08-12-2021 12:59:19 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:59:19 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:59:19 - INFO  com.capg.rockstarGames.util.Constants : Get game controller executed
+08-12-2021 12:59:24 - INFO  com.capg.rockstarGames.util.Constants : Get game controller initialized
+08-12-2021 12:59:24 - INFO  com.capg.rockstarGames.util.Constants : Get Game service initialized
+08-12-2021 12:59:24 - INFO  com.capg.rockstarGames.util.Constants : Get Game service executed
+08-12-2021 12:59:24 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion initialized
+08-12-2021 12:59:24 - INFO  com.capg.rockstarGames.util.Constants : Game to GameDto conversion completed
+08-12-2021 12:59:24 - INFO  com.capg.rockstarGames.util.Constants : Get game controller executed
+08-12-2021 13:48:00 - INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+08-12-2021 13:48:00 - INFO  org.apache.catalina.core.StandardService : Stopping service [Tomcat]
+08-12-2021 13:48:00 - INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Destroying Spring FrameworkServlet 'dispatcherServlet'
+08-12-2021 13:48:00 - WARN  org.apache.catalina.loader.WebappClassLoaderBase : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17/java.lang.Thread.run(Thread.java:833)
+08-12-2021 13:48:00 - INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+08-12-2021 13:48:00 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...
+08-12-2021 13:48:00 - INFO  com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown completed.
